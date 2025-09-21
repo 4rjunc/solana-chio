@@ -1,5 +1,5 @@
 
-<div align="center"> <img src="assets/logo.png" alt="Chio CLI Logo" width="20%"> <h1>Chio</h1> <p>Setup Solana Pinocchio projects blazingly fast</p>
+<div align="center"> <img src="assets/logo.png" alt="Chio CLI Logo" width="20%"> <h1>Chio</h1> <p> Setup Solana Pinocchio projects blazingly fast</p>
 Author: 
 
 <a class="header-badge" target="_blank" href="https://twitter.com/4rjunc"> <img alt="Twitter" src="https://img.shields.io/badge/@4rjunc-000000?style=for-the-badge&logo=x&logoColor=white"> </a> </div>
